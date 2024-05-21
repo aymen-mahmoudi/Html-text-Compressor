@@ -15,10 +15,7 @@ You need to copy the raw HTML script in the entry box and press the button. The 
 
 ## Roadmap
  <ul>
-  <li>Avoid the crash of the app in case of empty value</li>
-  <li>Add a check button to accept radians and degrees</li>
-  <li>Extract the parameters from the experimental data use them by default</li>
-  <li>Integrate an optimization to fully modelize the fitting plot</li>
+  <li>Add a load button to import the HTML file</li>
   <li>Transform the project on a desktop application</li>
 </ul> 
 
